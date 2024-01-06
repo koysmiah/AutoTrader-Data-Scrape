@@ -33,7 +33,7 @@ cars = [
 db_params = {
     'dbname': 'Autotrader',
     'user': 'postgres',
-    'password': 'Compaq2022',
+    'password': '********',
     'host': 'localhost',
     'port': '5432',
 }
